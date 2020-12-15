@@ -28,14 +28,14 @@ feature_row:
     alt: "我们的环境"
     title: "我们的环境"
     excerpt: "地球当前的环境"
-    url: "/environment/"
+    url: "/our-environment/"
     btn_class: "btn--inverse"
     btn_label: "详细信息"
   - image_path: /assets/images/home-feature-actions.jpg
     alt: "我能做什么"
     title: "我能做什么"
     excerpt: "日常生活中我能做什么"
-    url: "/actions/"
+    url: "/what-i-can-do/"
     btn_class: "btn--inverse"
     btn_label: "详细信息"
 ---
