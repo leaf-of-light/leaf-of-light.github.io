@@ -2,11 +2,13 @@
 main:
   - title: "地球上的生命"
     url: /lifes-on-the-earth/
-  - title: "可持续发展"
-    url: /sustainable-development/
+  - title: "我们的环境"
+    url: /our-environment/
+  - title: "我能做什么"
+    url: /what-i-can-do/
   - title: "COVID-19"
     url: /covid-19/
-  - title: "关于我们"
+  - title: "关于光の叶"
     url: /about/
 
 # documentation links

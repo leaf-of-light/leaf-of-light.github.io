@@ -1,10 +1,10 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "excerpt.."
+title: "关于光の叶"
+# excerpt: "关于光の叶"
 last_modified_at: 2020-12-04T14:51:23-04:00
 # toc: true
 sidebar: ""
 ---
 
-About...
+当你有机会充分欣赏和喜爱自然的时候，你会体验到从自然中获得的那份喜悦，你也会自然的不会再想去伤害 ta 而想要保护 ta。这份喜悦是大自然的一份珍贵的礼物，而且每个人都可以方便的领取呦。
